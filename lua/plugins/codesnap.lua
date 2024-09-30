@@ -8,11 +8,9 @@ return {
   opts = {
     save_path = "~/Pictures",
     bg_theme = "summer",
-    code_font_family = "CaskaydiaCove Nerd Font",
-    watermark = "niggers",
+    bg_color = "#00000f",
     has_line_number = true,
-    -- bg_x_padding = 30,
-    -- bg_y_padding = 30,
-    bg_padding = 0,
+    bg_x_padding = 10,
+    bg_y_padding = 10,
   },
 }
